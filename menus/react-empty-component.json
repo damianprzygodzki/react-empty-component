@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Insert empty react component",
+        "command": "react-empty-component:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "react-empty-component",
+          "submenu": [
+            {
+              "label": "Insert",
+              "command": "react-empty-component:insert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

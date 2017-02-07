@@ -1,0 +1,24 @@
+{
+  "name": "react-empty-component",
+  "main": "./lib/react-empty-component",
+  "version": "1.0.0",
+  "description": "A nice key shortcut for extremaly quick insertin blank React component",
+  "keywords": [
+      "react", "component", "insert", "paste", "blank", "empty", "new", "template"
+  ],
+  "author": {
+      "name": "Damian Przygodzki",
+      "email": "dprzygodzki@me.com",
+      "url": "www.damianprzygodzki.pl"
+  },
+  "activationCommands": {
+    "atom-workspace": "react-empty-component:insert"
+  },
+  "repository": "https://github.com/damianprzygodzki/react-empty-component",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
